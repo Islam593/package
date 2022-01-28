@@ -1,0 +1,19 @@
+{
+    "name": "islamtareqgit/package",
+    "description": "This is a test project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Islamtareqgit\\Package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tareqislam",
+            "email": "blnre.tareq@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

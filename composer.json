@@ -1,11 +1,11 @@
 {
-    "name": "islamtareqgit/package",
-    "description": "This is a test project",
+    "name": "islamtareqgit/packagist",
+    "description": "this is a test project",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Islamtareqgit\\Package\\": "src/"
+            "Islamtareqgit\\Packagist\\": "src/"
         }
     },
     "authors": [

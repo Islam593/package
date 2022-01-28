@@ -1,6 +1,6 @@
 <?php
 
-namespace Islamtareqgit\Package;
+namespace Islamtareqgit\Packagist;
 Class Tareq{
 
     
